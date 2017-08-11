@@ -1,0 +1,70 @@
+文件夹 PATH 列表
+卷序列号为 3E51-4E15
+C:.
+│  fileTree.txt
+│  getFileTree.bat
+│  Readme.md
+│  
+├─.idea
+│      .name
+│      ATMWork.iml
+│      encodings.xml
+│      misc.xml
+│      modules.xml
+│      README
+│      workspace.xml
+│      
+├─atm
+│  │  __init__.py
+│  │  
+│  ├─bin
+│  │      atm.py
+│  │      manage.py
+│  │      __init__.py
+│  │      
+│  ├─conf
+│  │      setting.py
+│  │      __init__.py
+│  │      
+│  ├─core
+│  │  │  accounts.py
+│  │  │  auth.py
+│  │  │  logger.py
+│  │  │  main.py
+│  │  │  transaction.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─__pycache__
+│  │          accounts.cpython-36.pyc
+│  │          auth.cpython-36.pyc
+│  │          logger.cpython-36.pyc
+│  │          main.cpython-36.pyc
+│  │          transaction.cpython-36.pyc
+│  │          __init__.cpython-36.pyc
+│  │          
+│  ├─db
+│  │  │  account_sample.py
+│  │  │  __init__.py
+│  │  │  
+│  │  ├─accounts
+│  │  │      admin.json
+│  │  │      lyw.json
+│  │  │      sh.json
+│  │  │      wh.json
+│  │  │      zsc.json
+│  │  │      
+│  │  └─__pycache__
+│  │          account_sample.cpython-36.pyc
+│  │          __init__.cpython-36.pyc
+│  │          
+│  └─log
+│          admin_op.log
+│          zsc_transact.log
+│          __init__.py
+│          
+├─picture
+│      QQ截图20170811102458.png
+│      
+└─shopping_mall
+        __init__.py
+        
